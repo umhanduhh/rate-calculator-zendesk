@@ -1,0 +1,14 @@
+{
+    "app": {
+      "name": "Rate Calculator",
+      "short_description": "Calculate charge rates with markup",
+      "long_description": "A simple calculator that helps you determine charge rates based on pay rates with a 20% markup.",
+      "installation_instructions": "Simply click install."
+    },
+    "calculator": {
+      "title": "Rate Calculator",
+      "pay_rate_label": "Pay Rate ($)",
+      "pay_rate_placeholder": "Enter pay rate",
+      "charge_rate_label": "Charge Rate (20% markup)"
+    }
+  }
